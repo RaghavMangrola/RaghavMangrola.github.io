@@ -1,12 +1,8 @@
 {
   "assetsByChunkName": {
-    "path---my-second-post": [
-      "path---my-second-post-974b329a06057ad7edbd.js",
-      "path---my-second-post-974b329a06057ad7edbd.js.map"
-    ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-f355d2aae2893701430f.js",
-      "component---src-pages-index-js-f355d2aae2893701430f.js.map"
+      "component---src-pages-index-js-56a1b42054b6b6a2f058.js",
+      "component---src-pages-index-js-56a1b42054b6b6a2f058.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -17,24 +13,20 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-38fb534b4af13a29e143.js",
-      "component---src-templates-blog-post-js-38fb534b4af13a29e143.js.map"
+      "component---src-templates-blog-post-js-4825f204f43e53cb9dfa.js",
+      "component---src-templates-blog-post-js-4825f204f43e53cb9dfa.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-b46900d2e9cf6ba331e0.js",
-      "component---src-layouts-index-js-b46900d2e9cf6ba331e0.js.map"
-    ],
-    "path---hi-folks": [
-      "path---hi-folks-02bbcee8463c76afe973.js",
-      "path---hi-folks-02bbcee8463c76afe973.js.map"
+      "component---src-layouts-index-js-5f3c50a1f9ccee6771d4.js",
+      "component---src-layouts-index-js-5f3c50a1f9ccee6771d4.js.map"
     ],
     "path---index": [
-      "path---index-fb7920b02446c87b3d44.js",
-      "path---index-fb7920b02446c87b3d44.js.map"
+      "path---index-5b978316e98bb90da085.js",
+      "path---index-5b978316e98bb90da085.js.map"
     ],
     "path---hello-world": [
-      "path---hello-world-a72f11724a8964975c49.js",
-      "path---hello-world-a72f11724a8964975c49.js.map"
+      "path---hello-world-ef4fce02169e78c4ad34.js",
+      "path---hello-world-ef4fce02169e78c4ad34.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -55,9 +47,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-7c069bff0f43a09da9f9.js",
+      "app-1699c35655cd27453705.js",
       "build-js-styles.css",
-      "app-7c069bff0f43a09da9f9.js.map",
+      "app-1699c35655cd27453705.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [

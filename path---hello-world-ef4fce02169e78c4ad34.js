@@ -1,0 +1,2 @@
+webpackJsonp([0x834755aae49e],{507:function(e,a){e.exports={data:{site:{siteMetadata:{title:"Raghav Mangrola",author:"Kyle Mathews"}},markdownRemark:{id:"/Users/raghav/Documents/dev/React Projects/mySite/src/pages/hello-world/index.md absPath of file >>> MarkdownRemark",html:"",frontmatter:{title:"Just Build",date:"May 26, 2018"}}},pathContext:{slug:"/hello-world/",previous:null,next:null}}}});
+//# sourceMappingURL=path---hello-world-ef4fce02169e78c4ad34.js.map

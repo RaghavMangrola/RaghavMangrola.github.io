@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{508:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Raghav Mangrola"}},allMarkdownRemark:{edges:[{node:{excerpt:"",fields:{slug:"/hello-world/"},frontmatter:{date:"26 May, 2018",title:"Just Build"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-5b978316e98bb90da085.js.map
