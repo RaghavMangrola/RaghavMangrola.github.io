@@ -21,12 +21,8 @@
       "component---src-layouts-index-js-5f3c50a1f9ccee6771d4.js.map"
     ],
     "path---index": [
-      "path---index-5b978316e98bb90da085.js",
-      "path---index-5b978316e98bb90da085.js.map"
-    ],
-    "path---hello-world": [
-      "path---hello-world-ef4fce02169e78c4ad34.js",
-      "path---hello-world-ef4fce02169e78c4ad34.js.map"
+      "path---index-29b8987a6f8f8713fafe.js",
+      "path---index-29b8987a6f8f8713fafe.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -46,10 +42,14 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---just-build": [
+      "path---just-build-8454e61b2c34f47fdd09.js",
+      "path---just-build-8454e61b2c34f47fdd09.js.map"
+    ],
     "app": [
-      "app-1699c35655cd27453705.js",
+      "app-98f6ad69496f0f9d2731.js",
       "build-js-styles.css",
-      "app-1699c35655cd27453705.js.map",
+      "app-98f6ad69496f0f9d2731.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
