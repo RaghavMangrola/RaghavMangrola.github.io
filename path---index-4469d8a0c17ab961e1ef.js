@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{511:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Raghav Mangrola"}},allMarkdownRemark:{edges:[{node:{excerpt:"It’s hard being an adult. Trying to juggle work, networking, social life, health, side projects, and hobbies is exhausting. I’m the kind of…",fields:{slug:"/just-do-it/"},frontmatter:{date:"07 June, 2018",title:"Just Do It"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-4469d8a0c17ab961e1ef.js.map

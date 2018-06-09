@@ -1,0 +1,2 @@
+webpackJsonp([0xc69c76be65b2],{512:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Raghav Mangrola",author:"Kyle Mathews"}},markdownRemark:null},pathContext:{slug:"/just-build/",previous:null,next:null}}}});
+//# sourceMappingURL=path---just-build-20c3ec2692c871fbdc4c.js.map

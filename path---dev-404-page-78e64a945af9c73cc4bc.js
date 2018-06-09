@@ -1,0 +1,2 @@
+webpackJsonp([0xe30c857b775f],{509:function(t,e){t.exports={data:{allSitePage:{totalCount:6,edges:[{node:{path:"/hello-world/"}},{node:{path:"/404/"}},{node:{path:"/"}},{node:{path:"/404.html"}},{node:{path:"/just-build/"}},{node:{path:"/just-do-it/"}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---dev-404-page-78e64a945af9c73cc4bc.js.map
